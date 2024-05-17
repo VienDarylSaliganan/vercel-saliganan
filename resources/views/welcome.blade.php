@@ -12345,7 +12345,7 @@ pre .code {
     height: 100px;
     padding-bottom: 20px;
     color: $white;
-    @include flex;
+    
     opacity: .8;
     align-items: flex-end;
 
